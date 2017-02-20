@@ -1,3 +1,5 @@
+var applicationModule = require("application");
+
 var _isInit = false;
 var mCallbackManager;
 var loginManager;
