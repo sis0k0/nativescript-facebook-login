@@ -1,4 +1,4 @@
-var applicationModule = require("application");
+import * as applicationModule from "application";
 var _isInit = false;
 var _AndroidApplication = applicationModule.android;
 var _act;

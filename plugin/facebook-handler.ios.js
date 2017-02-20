@@ -1,3 +1,5 @@
+import * as applicationModule from "application";
+
 var _isInit = false;
 var mCallbackManager;
 var loginManager;
